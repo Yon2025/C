@@ -1,0 +1,75 @@
+{
+    "name": "C",
+    "children": [
+     {
+      "name": "atomic_carbon",
+      "children": [
+       {
+        "name": "amorphous carbon",
+        "children": [
+         {"name": "coal", "value": 3938},
+         {"name": "soot", "value": 3812},
+         {"name": "coke", "value": 6714},
+         {"name": "charcoal", "value": 743},
+         {"name": "bone char", "value": 3812}
+        ]
+       },
+       {
+        "name": "diamond"
+       },
+       {
+        "name": "fullerene"
+       }
+      ]
+     },
+     {
+      "name": "organic compounds",
+      "children": [
+       {
+        "name": "industry",
+        "children": [
+         {"name": "refrigerating fluid", "value": 1983},
+         {"name": "lubricant", "value": 2047},
+         {"name": "solvent", "value": 1375},
+         {"name": "plastic", "value": 8746},
+         {"name": "fossil fuel", "value": 2202}
+        ]
+       },
+       {
+        "name": "biology",
+        "children": [
+         {"name": "carbohydrate", "value": 1983},
+         {"name": "lignans", "value": 2047},
+         {"name": "alcohol", "value": 1375},
+         {"name": "carotenoid", "value": 8746},
+         {"name": "antibiotic", "value": 2202},
+         {"name": "amino acid", "value": 2202}
+      ]
+     },
+     {
+      "name": "inorganic compound",
+      "children": [
+       {
+        "name": "carbon oxide",
+        "children": [
+         {"name": "carbon dioxide", "value": 721},
+         {"name": "carbon monoxide", "value": 4294},
+         {"name": "carbonic acid", "value": 9800},
+         {"name": "carbonate", "value": 1314}
+        ]
+       },
+       {"name": "cyanide", "value": 1759},
+       {"name": "SiC", "value": 2165}
+      ]
+     },
+     {
+      "name": "metallic compound",
+      "children": [
+       {"name": "alkyl compound", "value": 8833},
+       {"name": "allyl compound", "value": 1732}
+      ]
+     }
+    ]
+   }
+]
+}
